@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.timer, .calculator {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 10px;
+}
